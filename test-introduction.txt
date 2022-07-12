@@ -5,6 +5,9 @@ Alamat Email: gustianiarumpramesti@gmail.com
 Waktu Mulai : Selasa, 12 Juli 2022 / 07.00
 Waktu Selesai : Selasa, 12 Juli 2022 / 09.30
 
+*) Waktu pengerjaan ditambah dengan waktu untuk menginstall Java 11, Extension Java di Vscode,
+    Postgresql, Sourcetree
+
 CARA PENGERJAAN!!!
 
 buatlah file baru sesuai dengan number PERTANYAAN
